@@ -21,10 +21,12 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 
 If you'd like to get in touch with me, you can reach me through the following channels:
 
-- [WhatsApp](+923087880256) (Add other contact icons and links here, such as email, Twitter, LinkedIn, etc.)
+- <a><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/whatsapp/whatsapp.png"> [Whatsapp](https://wa.me/923087880256)</a>
 
 ## 💬 Fun Fact
 
 Did you know that the term "GitHub" is a combination of the words "Git" (a version control system) and "hub" (a central place for sharing code)? GitHub was created in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.
 
 Thanks for visiting my profile! Have a great day! 😄
+
+Don't forget to have a look on my pinned repos👇

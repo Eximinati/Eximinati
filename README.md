@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hey there! 👋
 
 I'm Eximinati, a developer passionate about building things for the web. Welcome to my GitHub profile! Here you'll find some of my personal and open-source projects, as well as some contributions to other projects.
 
@@ -8,7 +8,12 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 
 ## 🌱 Currently Learning
 
-I'm currently learning JavaScript, HTML, CSS, PHP, and VSCode. I'm also interested in other web development technologies, such as React, Vue.js, and Node.js. I enjoy learning new things and improving my skills, so feel free to recommend any resources or projects!
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ## 🎬 Favorite Anime GIF
 

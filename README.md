@@ -21,7 +21,7 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 
 If you'd like to get in touch with me, you can reach me through the following channels:
 
-- [WhatsApp](add your WhatsApp number here) (Add other contact icons and links here, such as email, Twitter, LinkedIn, etc.)
+- [WhatsApp](+923087880256) (Add other contact icons and links here, such as email, Twitter, LinkedIn, etc.)
 
 ## 💬 Fun Fact
 

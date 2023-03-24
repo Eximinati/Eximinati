@@ -1,4 +1,6 @@
-# Hey there! 👋
+<p align="center"><a href="https://Eximianti.github.io"><img width="80%" alt="Hello, I'm Eximinati. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 I'm Eximinati, a developer passionate about building things for the web. Welcome to my GitHub profile! Here you'll find some of my personal and open-source projects, as well as some contributions to other projects.
 

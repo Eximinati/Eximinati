@@ -20,7 +20,6 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 <a href="https://github.com/Eximianti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eximinati&layout=compact&theme=material-palenight" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eximinati&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
 

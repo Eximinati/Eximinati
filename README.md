@@ -4,7 +4,7 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 
 ## 📊 GitHub Stats
 
-[![Eximinati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eximinati&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Eximinati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eximinati&show_icons=true&theme=radical)](https://github.com/Eximinati)
 
 ## 🌱 Currently Learning
 

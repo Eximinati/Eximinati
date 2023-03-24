@@ -17,7 +17,9 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ## 🖥️ Top Languages
-
+<a href="https://github.com/Eximianti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eximinati&layout=compact&theme=material-palenight" />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eximinati&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me

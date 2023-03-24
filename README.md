@@ -4,7 +4,7 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eximinati&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eximinati&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## 📊 GitHub Stats
 
 [![Eximinati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eximinati&show_icons=true&theme=radical)](https://github.com/Eximinati)

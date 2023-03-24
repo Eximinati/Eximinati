@@ -2,6 +2,9 @@
 
 I'm Eximinati, a developer passionate about building things for the web. Welcome to my GitHub profile! Here you'll find some of my personal and open-source projects, as well as some contributions to other projects.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Eximianti=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📊 GitHub Stats
 
 [![Eximinati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eximinati&show_icons=true&theme=radical)](https://github.com/Eximinati)

@@ -4,9 +4,9 @@ I'm Eximinati, a developer passionate about building things for the web. Welcome
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Eximianti&margin-w=15&column=7&row=8" />
-<a href="https://github.com/Eximianti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eximianti&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Eximianti's github stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Eximinati&margin-w=15&column=7&row=8" />
+<a href="https://github.com/Eximinati">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eximinati&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Eximinati's github stats" />
 </a>
 <img align= "right" width= "240" src="https://media.tenor.com/dpNZDEnuPGYAAAAi/study-focused.gif">
 
